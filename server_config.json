@@ -1,0 +1,1 @@
+{"serverConfig": "{\"mcpServers\":{\"wpds\":{\"command\":\"npx\",\"args\":[\"-y\",\"@iflow-mcp/automattic-wpds-mcp\",\"--stdio\"],\"env\":{},\"values\":{}}}}"}
